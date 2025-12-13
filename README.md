@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rsrivaishnavi2006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mOSal94EIDRgXgjrUUJTxSjRb48Jfz9e/view?usp=drive_link](https://drive.google.com/file/d/1mOSal94EIDRgXgjrUUJTxSjRb48Jfz9e/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BaLbfp6Ez_La76fFIklttSbugpflqgaJ/view?usp=sharing](https://drive.google.com/file/d/1BaLbfp6Ez_La76fFIklttSbugpflqgaJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

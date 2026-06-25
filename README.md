@@ -1,37 +1,145 @@
 <h1 align="center">Hi 👋, I'm Sri Vaishnavi Remilla</h1>
-<h3 align="center">🌩️ An aspiring AWS Cloud Engineer passionate about building scalable solutions</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=remillasrivaishnavi&label=Profile%20views&color=0e75b6&style=flat" alt="remillasrivaishnavi" /> </p>  -->
+<h3 align="center">
+Computer Science Student | AWS Certified Developer | Cloud & AI Enthusiast
+</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remillasrivaishnavi" alt="remillasrivaishnavi" /></a> </p>   -->
-
-- 🔭 I’m currently working on **Deploying Projects in Cloud and using different Cloud Technologies.**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👯 I’m looking to collaborate on **Cloud-based web applications using AWS services.**
-
-- 🤝 I’m looking for help with **AWS Technology**
-
-- 👨‍💻 All of my projects are available at [https://github.com/RemillaSriVaishnavi](https://github.com/RemillaSriVaishnavi)
-
-- 💬 Ask me about **SQL, AWS Services**
-
-- 📫 How to reach me **rsrivaishnavi2006@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14rGk8yIo9gGWmNXWJHOsJ8JzZYAT9rfp/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/remilla-sri-vaishnavi-35a075291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remilla sri vaishnavi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srivaishnavi14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srivaishnavi14" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srivaishnavi2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srivaishnavi2006" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rsrivaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rsrivaishnavi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/r_srivaishnavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r_srivaishnavi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rsrivaish9ybm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rsrivaish9ybm" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AWS+Certified+Developer+Associate;Cloud+Computing+%7C+Artificial+Intelligence;Always+Learning+%F0%9F%9A%80+Always+Building" alt="Typing SVG"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="mailto:rsrivaishnavi2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=remillasrivaishnavi&show_icons=true&locale=en&layout=compact" alt="remillasrivaishnavi" /></p>
+<a href="https://www.linkedin.com/in/remilla-sri-vaishnavi-35a075291/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://myportfolio-brown-three-32.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1DJCQQsRmQnkIpXn9lUpyaFEIW_BrVP9w/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+ 
+</p>
+
+<p align="center">
+📧 rsrivaishnavi2006@gmail.com &nbsp; | &nbsp;
+📞 +91 8985101828 &nbsp; | &nbsp;
+📍 Andhra Pradesh, India
+</p>
+
+---
+
+## 💫 About Me
+🎓 B.Tech Computer Science Engineering (2023–2027)  
+🤖 Passionate about Artificial Intelligence & Cloud Computing  
+💻 Strong interest in Software Development & Problem Solving  
+📚 Strong foundation in Data Structures, Algorithms, DBMS, Operating Systems & Computer Networks  
+🌱 Currently exploring **Advanced AWS Services, Generative AI & Docker**  
+⚡ I enjoy building scalable cloud applications, AI-powered solutions and modern web applications.  
+🎯 Always learning, building, and improving through hands-on projects.
+
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+## 🌐 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/R_Srivaishnavi/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/srivaishnavi14">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/srivaishnavi2006">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/rsrivaish9ybm">
+<img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+
+</p>
+
+
+---
+
+## 🏆 Certifications
+<p align="center">
+
+<a href="AWS_CERTIFICATE_LINK">
+<img src="./assets/aws-developer.png" width="150"/>
+</a>
+
+<a href="RHCSA_CERTIFICATE_LINK">
+<img src="./assets/rhcsa.png" width="150"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="left">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemillaSriVaishnavi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+## 📈 Contribution Graph 
+<p align="center"> 
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RemillaSriVaishnavi&theme=tokyo-night&hide_border=true"/> 
+
+</p> 
+
+---
+
+## 📜 Developer Quote
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+✨ Learn • Build • Innovate • Repeat ✨
+</h3>

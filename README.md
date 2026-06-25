@@ -100,14 +100,14 @@ Computer Science Student | AWS Certified Developer | Cloud & AI Enthusiast
 ---
 
 ## 🏆 Certifications
-<p align="center">
+<p align="left">
 
 <a href="AWS_CERTIFICATE_LINK">
-<img src="./assets/aws-developer.png" width="150"/>
+<img src="./assests/AWS-Certified-Developer-Associate.png" width="150"/>
 </a>
 
 <a href="RHCSA_CERTIFICATE_LINK">
-<img src="./assets/rhcsa.png" width="150"/>
+<img src="./assests/RedHat.png" width="150"/>
 </a>
 
 </p>

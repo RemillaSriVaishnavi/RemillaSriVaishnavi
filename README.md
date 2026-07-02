@@ -128,14 +128,6 @@ Computer Science Student | AWS Certified Developer | Cloud & AI Enthusiast
 </p>
 
 ---
-## 📈 Contribution Graph 
-<p align="center"> 
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RemillaSriVaishnavi&theme=tokyo-night&hide_border=true"/> 
-
-</p> 
-
----
 
 ## 📜 Developer Quote
 <p align="center">
